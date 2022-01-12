@@ -1,12 +1,10 @@
-1
-2
+1 modify folder1
+2 modify folder1
 3
 4
-5
+5 modify2 folder1
 6 modify step 7 git_1
 7 modify step 7 git_1
-8
+8 modify2 folder1
 9 modify step 8 git_1
 10 modify step 8 git_1
-11 modify folder1
-12 modify folder1
